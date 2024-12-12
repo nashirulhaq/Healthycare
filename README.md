@@ -54,7 +54,3 @@ Ensure you have the following installed:
 1. Set up the environment as described above.
 2. Open the Jupyter notebooks in your preferred environment.
 3. Follow the steps in the notebooks to preprocess the data and train the model.
-
-## License
-
-This project is licensed under the MIT License.
