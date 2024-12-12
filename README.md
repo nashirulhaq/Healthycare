@@ -3,7 +3,7 @@
 ## About Healthycare
 
 ## Capstone Project Team
-Team ID : CH2-PS158  
+Team ID : C242-PS490   
 | Member        | Student ID | Learning Path | University      | GitHub Profile             |
 |---------------|------------|---------------|------------------|----------------------------|
 | Yahya Ibnu Fajar | M819B4KY4515 | Machine Learning | Universitas Nurul Huda | [Yhyabnu](https://github.com/Yhyabnu) |
