@@ -1,7 +1,5 @@
 # Healthycare
 
-## About Healthycare
-
 ## Capstone Project Team
 Team ID : C242-PS490   
 | Member        | Student ID | Learning Path | University      | GitHub Profile             |
