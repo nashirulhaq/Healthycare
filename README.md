@@ -24,5 +24,5 @@ Team ID : C242-PS490
 
 ## Project Document
 - [Project Brief](https://docs.google.com/document/d/1Zy1eNbHBgvT6H12r_uthZrvrgpRB0lIs/edit?usp=sharing&ouid=116417980236872077447&rtpof=true&sd=true)
-- [GoTo Market Proposal](https://docs.google.com/document/d/1oFrs_48evTZoj9wfi3Y3YAJagT1i38vN/edit?usp=sharing&ouid=104549556860791391344&rtpof=true&sd=true)
+- [GoTo Market Proposal](https://docs.google.com/document/d/1oFrs_48evTZoj9wfi3Y3YAJagT1i38vN/edit?usp=sharing&ouid=116417980236872077447&rtpof=true&sd=true)
 - [Project Presentation](https://youtu.be/DOQkEYnzwn4)
