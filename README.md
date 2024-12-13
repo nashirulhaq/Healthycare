@@ -1,5 +1,9 @@
 # Healthycare
 
+<p align="center">
+  <img src="[Imgur](https://imgur.com/bxXKaJn)" alt="Logo Healthycare" width="180rm">
+</p>
+
 ## Capstone Project Team
 Team ID : C242-PS490   
 | Member        | Student ID | Learning Path | University      | GitHub Profile             |
