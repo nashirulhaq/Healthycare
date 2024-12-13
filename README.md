@@ -49,6 +49,12 @@ Ensure you have the following installed:
 - Python 3.10
 - Anaconda or Pipenv
 
+## Usage
+
+1. Set up the environment as described above.
+2. Open the Jupyter notebooks in your preferred environment.
+3. Follow the steps in the notebooks to preprocess the data and train the model.
+
 
 # Healthycare
 
@@ -79,9 +85,3 @@ Team ID : C242-PS490
 - [GoTo Market Proposal](https://docs.google.com/document/d/1oFrs_48evTZoj9wfi3Y3YAJagT1i38vN/edit?usp=sharing&ouid=116417980236872077447&rtpof=true&sd=true)
 - [Project Presentation](https://youtu.be/DOQkEYnzwn4)
 - [Website](http://project-cloud-441907.et.r.appspot.com/)
-
-## Usage
-
-1. Set up the environment as described above.
-2. Open the Jupyter notebooks in your preferred environment.
-3. Follow the steps in the notebooks to preprocess the data and train the model.
