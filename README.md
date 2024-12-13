@@ -1,5 +1,8 @@
 # Healthycare
 
+![Imgur](https://imgur.com/bxXKaJn.jpg)
+
+
 ## Capstone Project Team
 Team ID : C242-PS490   
 | Member        | Student ID | Learning Path | University      | GitHub Profile             |
@@ -13,13 +16,14 @@ Team ID : C242-PS490
 
 ## Repository Branches
 1. [ALL](https://github.com/nashirulhaq/Healthycare)
-2. [MD]()
+2. [MD](https://github.com/nashirulhaq/Healthycare/tree/healthycare-md)
 3. [ML-Diabetes](https://github.com/nashirulhaq/Healthycare/tree/healthycare-diabetes)
 4. [ML-Heart-Disease](https://github.com/nashirulhaq/Healthycare/tree/healthycare-heart-disease)
-5. [ML-Skin-Disease]()
-6. [CC]()
+5. [ML-Skin-Disease](https://github.com/nashirulhaq/Healthycare/tree/healthycare-skin-disease)
+6. [CC](https://github.com/nashirulhaq/Healthycare/tree/healthycare-cc)
 
 ## Project Document
-- [Project Brief]()
-- [GoTo Market Proposal]()
-- [Project Presentation]()
+- [Project Brief](https://docs.google.com/document/d/1Zy1eNbHBgvT6H12r_uthZrvrgpRB0lIs/edit?usp=sharing&ouid=116417980236872077447&rtpof=true&sd=true)
+- [GoTo Market Proposal](https://docs.google.com/document/d/1oFrs_48evTZoj9wfi3Y3YAJagT1i38vN/edit?usp=sharing&ouid=116417980236872077447&rtpof=true&sd=true)
+- [Project Presentation](https://youtu.be/DOQkEYnzwn4)
+- [Website](http://project-cloud-441907.et.r.appspot.com/)
