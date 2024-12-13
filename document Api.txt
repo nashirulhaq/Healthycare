@@ -1,0 +1,70 @@
+# API Documentation
+
+## API Endpoint: Upload Photo
+
+### Endpoint URL
+
+`https://skindisease-api-975768808236.asia-southeast2.run.app/`predict
+
+### HTTP Method
+
+`POST`
+
+### Request Headers
+
+| Header         | Value                 | Description                                    |
+| -------------- | --------------------- | ---------------------------------------------- |
+| `Content-Type` | `multipart/form-data` |                                                |
+
+### Request Body
+
+The request should use `multipart/form-data` encoding with the following key:
+
+| Key    | Type         | Value      | Description                           |
+| ------ | ------------ | ---------- | ------------------------------------- |
+| `file` | File (image) | Image file |                                       |
+
+#### Example Request
+
+```bash
+curl -X POST \
+  -H "Content-Type: multipart/form-data" \
+  -F "file=@/path/to/your/photo.jpg" \
+  https://skindisease-api-975768808236.asia-southeast2.run.app/predict
+```
+
+### Response
+
+#### Success Response
+
+- **Status Code:** `200 OK`
+- **Body:**
+ {
+    "confidence": 0.8140361905097961,
+    "prediction": "eczema"
+}
+  ```
+
+#### Error Response
+
+- **Status Code:** `400 Bad Request`
+
+- **Body:**
+
+  ```json
+  {
+    "status": "error",
+    "message": "Invalid file type. Please upload an image."
+  }
+  ```
+
+- **Status Code:** `500 Internal Server Error`
+
+- **Body:**
+
+  ```json
+  {
+    "status": "error",
+    "message": "Server error. Please try again later."
+  }
+  ```
