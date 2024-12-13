@@ -1,7 +1,7 @@
 # Healthycare
 
 <p align="center">
-  <img src="[Imgur](https://imgur.com/bxXKaJn)" alt="Logo Healthycare" width="180rm">
+  ![Imgur](https://imgur.com/bxXKaJn)
 </p>
 
 ## Capstone Project Team
