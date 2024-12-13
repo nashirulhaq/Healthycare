@@ -16,10 +16,10 @@ Team ID : C242-PS490
 2. [MD]()
 3. [ML-Diabetes](https://github.com/nashirulhaq/Healthycare/tree/healthycare-diabetes)
 4. [ML-Heart-Disease](https://github.com/nashirulhaq/Healthycare/tree/healthycare-heart-disease)
-5. [ML-Skin-Disease]()
+5. [ML-Skin-Disease](https://github.com/nashirulhaq/Healthycare/tree/healthycare-skin-disease)
 6. [CC]()
 
 ## Project Document
 - [Project Brief]()
-- [GoTo Market Proposal]()
-- [Project Presentation]()
+- [GoTo Market Proposal](https://docs.google.com/document/d/1oFrs_48evTZoj9wfi3Y3YAJagT1i38vN/edit?usp=sharing&ouid=104549556860791391344&rtpof=true&sd=true)
+- [Project Presentation](https://youtu.be/DOQkEYnzwn4)
