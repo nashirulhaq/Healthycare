@@ -1,6 +1,8 @@
 # Healthycare
 
-![Imgur](https://imgur.com/bxXKaJn.jpg)
+<p align="center">
+  ![Imgur](https://imgur.com/bxXKaJn.jpg)
+</p>
 
 ## Capstone Project Team
 Team ID : C242-PS490   
